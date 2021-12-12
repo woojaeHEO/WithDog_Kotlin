@@ -11,8 +11,6 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
 
 
-        //main
-
 
         //main
         val btn_login = findViewById<Button>(R.id.btn_login)
